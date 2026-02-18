@@ -283,6 +283,12 @@
       "password": "$2a$10$9zkm7RHchFG4Y0pN8JeLxu5g0q/fjsRTDQEgon4M1u.hBuUaU7bSC",
       "name": "Sanjay Singh",
       "id": 1
+    },
+    {
+      "email": "guest@example.com",
+      "password": "$2a$10$SKeDB6zvilfOVet2jTCVWOfmJJMfF7B5Ds.hb58AlviDQ7Ulpow2G",
+      "name": "Guest User",
+      "id": 2
     }
   ]
 }
